@@ -1,0 +1,18 @@
+# Flutter
+/frontend/build/
+/frontend/.dart_tool/
+/frontend/.packages
+/frontend/pubspec.lock
+
+# Laravel
+/backend/vendor/
+/backend/node_modules/
+/backend/.env
+
+# Python ML
+/ml/__pycache__/
+/ml/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
